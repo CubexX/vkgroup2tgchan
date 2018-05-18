@@ -1,6 +1,6 @@
-VKpulbic2TGbot
+VKgroup2TGchan
 ====
-Reposting articles from VKontakte public group to Telegram bot.
+This bot can repost articles from VKontakte public group to Telegram channel.
 
 Installation
 -------
